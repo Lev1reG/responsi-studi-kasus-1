@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : Deren Tanaphan 
+NIU : 503261
+Sesi : Jum'at, 23 Mei 2025
+Secret String : 0f9f9c9149c5c978c1f37ff0a2705b27189acc9814f9265d6c613be4948fd9d320250523080729
 
 ## Checklist Responsi
 
